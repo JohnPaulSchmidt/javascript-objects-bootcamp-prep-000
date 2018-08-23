@@ -1,4 +1,2 @@
-var playlists = {
-  artist: 'Jeff Buckley',
-  song: 'Lover'
-}
+var playlists = {'Jeff Buckley': 'Lover, You Should Have Come Over'
+};
