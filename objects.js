@@ -1,2 +1,2 @@
-var playlists = {'Jeff Buckley': 'Lover, You Should Have Come Over'
+var playlist = {'Jeff Buckley': 'Lover, You Should Have Come Over'
 };
